@@ -1,0 +1,10 @@
+.form-list {
+  margin: 2rem;
+  width: 500px;
+  height: 400px;
+  background: #fff;
+  box-shadow: 10px 10px 5px #aaaaaa;
+ 
+  overflow: scroll;
+
+}
